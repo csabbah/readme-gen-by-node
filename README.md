@@ -1,7 +1,7 @@
-# Test Project 01
+# Test project - 01 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 
@@ -11,34 +11,33 @@
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
-- [#Licenses](#Licenses)
+- [Licenses](#Licenses)
 - [Questions](#Questions)
 
-#
+##
 
 ## Description
-This README was created using a README generator using node.js 
+Test description for Test project - 01 
 
 ## Installation
-Clone the main project via HTTPS link in the github repository
+Here are the following instructions...
 
 ## Usage
-Load up the application, open up terminal, enter the path of the main project and then after type: "node index" to execute the series of prompts.
+Usage information are as followed...
 
 ## Contributing
-Contributed and developvedd by Carlos Sabbah
+Contributed by Carlos Sabbah
 
 ## Tests
-Test instructions for Test project 01
+To test, you need to do the following...
 
 ## Licenses
 
 This Applications is covered under the following licenses:
 
 * MIT
-* SIL
+* Perl
 * IBM
-
 
 ## Questions
 https://github.com/csabbah 
