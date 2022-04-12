@@ -1,5 +1,7 @@
-
 # c
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# 
 
 ## Table of Contents
 - [Description](#Description)
@@ -27,13 +29,16 @@ c
 ## Tests
 c
 
-## License
-MIT [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-Mozilla [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-ODC [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-Perl [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-SIL [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-IBM [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+## Licenses
+
+This Applications is covered under the following licenses:
+
+MIT
+Mozilla
+ODC
+Perl
+SIL
+IBM
 
 
 ## Questions
