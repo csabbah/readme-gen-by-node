@@ -1,6 +1,10 @@
-# c
+# a
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 
 ## Table of Contents
@@ -15,19 +19,19 @@
 #
 
 ## Description
-c 
+a 
 
 ## Installation
-c
+a
 
 ## Usage
-c
+a
 
 ## Contributing
-c
+a
 
 ## Tests
-c
+a
 
 ## Licenses
 
@@ -35,13 +39,12 @@ This Applications is covered under the following licenses:
 
 * MIT
 * Mozilla
-* ODC
 * Perl
 * SIL
 * IBM
 
 
 ## Questions
-https://github.com/c 
+https://github.com/a 
 
-How to reach me for additional questions: c
+How to reach me for additional questions: a
