@@ -1,9 +1,9 @@
-# x
+# c
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Table of Contents
 
+## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -15,38 +15,33 @@
 #
 
 ## Description
-
-x
+c 
 
 ## Installation
-
-x
+c
 
 ## Usage
-
-x
+c
 
 ## Contributing
-
-x
+c
 
 ## Tests
-
-x
+c
 
 ## Licenses
 
 This Applications is covered under the following licenses:
 
-- MIT
-- Mozilla
-- ODC
-- Perl
-- SIL
-- IBM
+* MIT
+* Mozilla
+* ODC
+* Perl
+* SIL
+* IBM
+
 
 ## Questions
-
-https://github.com/x
+https://github.com/c 
 
 How to reach me for additional questions: c
